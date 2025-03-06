@@ -12,6 +12,11 @@ import Team from './pages/Team'
 import Testimonial from './pages/Testimonial'
 import Error from './pages/Error'
 import Contact from './pages/Contact'
+import PrivacyPolicy from './pages/PrivacyPolicy'
+import TermsConditions from './pages/TermsCondition'
+import Help from './pages/Help'
+import FAQs from './pages/Faqs'
+import CookiesPolicy from './pages/Cookies'
 
 export default function App() {
   return (
@@ -28,6 +33,11 @@ export default function App() {
         <Route path='/testimonial' element={<Testimonial/>}/>
         <Route path='/error' element={<Error/>}/>
         <Route path='/contact' element={<Contact/>}/>
+        <Route path='/privacy-policy' element={<PrivacyPolicy />} />
+        <Route path='/terms-condition' element={<TermsConditions />} />
+        <Route path='/help' element={<Help />} />
+        <Route path='/faqs' element={<FAQs />} />
+        <Route path='/cookies' element={<CookiesPolicy />} />
         </Routes>
         <Footer />
     </div>

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 export default function Footer() {
   return (
@@ -12,21 +13,24 @@ export default function Footer() {
         <div className="row g-5">
           <div className="col-lg-3 col-md-6">
             <h4 className="text-white mb-3">Company</h4>
-            <a className="btn btn-link" href="/">
+            <Link className="btn btn-link" to="/about">
               About Us
-            </a>
-            <a className="btn btn-link" href="/">
+            </Link>
+            <Link className="btn btn-link" to="/contact">
               Contact Us
-            </a>
-            <a className="btn btn-link" href="/">
+            </Link>
+            <Link className="btn btn-link" to="/privacy-policy">
               Privacy Policy
-            </a>
-            <a className="btn btn-link" href="/">
+            </Link>
+            <Link className="btn btn-link" to="/terms-condition">
               Terms &amp; Condition
-            </a>
-            <a className="btn btn-link" href="/">
-              FAQs &amp; Help
-            </a>
+            </Link>
+            <Link className="btn btn-link" to="/help">
+              Help
+            </Link>
+            <Link className="btn btn-link" to="/faqs">
+              FAQs 
+            </Link>
           </div>
           <div className="col-lg-3 col-md-6">
             <h4 className="text-white mb-3">Contact</h4>
@@ -144,9 +148,9 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">
                 <a href="/">Home</a>
-                <a href="/">Cookies</a>
-                <a href="/">Help</a>
-                <a href="/">FQAs</a>
+                <a href="/cookies">Cookies</a>
+                <a href="/help">Help</a>
+                <a href="/faqs">FQAs</a>
               </div>
             </div>
           </div>
