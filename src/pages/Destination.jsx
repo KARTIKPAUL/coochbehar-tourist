@@ -56,7 +56,7 @@ function Destination() {
                     30% OFF
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Thailand
+                    Meghalaya
                   </div>
                 </a>
               </div>
@@ -77,7 +77,7 @@ function Destination() {
                     25% OFF
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Malaysia
+                    Guwahati
                   </div>
                 </a>
               </div>
@@ -98,7 +98,7 @@ function Destination() {
                     35% OFF
                   </div>
                   <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                    Australia
+                    Derjiling
                   </div>
                 </a>
               </div>
@@ -123,7 +123,7 @@ function Destination() {
                 20% OFF
               </div>
               <div className="bg-white text-primary fw-bold position-absolute bottom-0 end-0 m-3 py-1 px-2">
-                Indonesia
+                Kolkata
               </div>
             </a>
           </div>

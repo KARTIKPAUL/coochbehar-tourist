@@ -40,8 +40,8 @@ function Contact() {
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <h5>Get In Touch</h5>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos
+            Have questions or need assistance with your travel plans? Our team is here to help! 
+  
             </p>
             <div className="d-flex align-items-center mb-4">
               <div
@@ -52,7 +52,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Office</h5>
-                <p className="mb-0">123 Street, New York, USA</p>
+                <p className="mb-0">Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</p>
               </div>
             </div>
             <div className="d-flex align-items-center mb-4">
@@ -64,7 +64,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Mobile</h5>
-                <p className="mb-0">+012 345 67890</p>
+                <p className="mb-0">099322 04885</p>
               </div>
             </div>
             <div className="d-flex align-items-center">
@@ -76,14 +76,14 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Email</h5>
-                <p className="mb-0">info@example.com</p>
+                <p className="mb-0">info@coochbehartravel.com</p>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-            <iframe
+          <iframe 
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3001156.4288297426!2d-78.01371936852176!3d42.72876761954724!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4ccc4bf0f123a5a9%3A0xddcfc6c1de189567!2sNew%20York%2C%20USA!5e0!3m2!1sen!2sbd!4v1603794290143!5m2!1sen!2sbd"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3576.0874518902833!2d89.44245457541926!3d26.323667577003125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e2fc281e3924bd%3A0xefe202ee916d9beb!2sYubraj%20Hotel!5e0!3m2!1sen!2sin!4v1741254225729!5m2!1sen!2sin"
               frameBorder={0}
               style={{ minHeight: 300, border: 0 }}
               allowFullScreen=""

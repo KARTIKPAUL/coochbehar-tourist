@@ -45,7 +45,7 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Thailand
+                  Meghalaya
                 </small>
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-calendar-alt text-primary me-2" />3 days
@@ -55,7 +55,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$149.00</h3>
+                <h3 className="mb-0">₹14,000.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -64,8 +64,7 @@ function Packages() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                Explore the natural wonders of Meghalaya, including caves, waterfalls, and living root bridges.
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
@@ -94,7 +93,7 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Indonesia
+                  Kolkata
                 </small>
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-calendar-alt text-primary me-2" />3 days
@@ -104,7 +103,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$139.00</h3>
+                <h3 className="mb-0">₹12,00.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -113,8 +112,7 @@ function Packages() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                Discover the colonial charm and rich history of Kolkata through its iconic landmarks.
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
@@ -143,7 +141,7 @@ function Packages() {
               <div className="d-flex border-bottom">
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-map-marker-alt text-primary me-2" />
-                  Malaysia
+                  Derjiling
                 </small>
                 <small className="flex-fill text-center border-end py-2">
                   <i className="fa fa-calendar-alt text-primary me-2" />3 days
@@ -153,7 +151,7 @@ function Packages() {
                 </small>
               </div>
               <div className="text-center p-4">
-                <h3 className="mb-0">$189.00</h3>
+                <h3 className="mb-0">₹18,000.00</h3>
                 <div className="mb-3">
                   <small className="fa fa-star text-primary" />
                   <small className="fa fa-star text-primary" />
@@ -162,8 +160,9 @@ function Packages() {
                   <small className="fa fa-star text-primary" />
                 </div>
                 <p>
-                  Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit
-                  diam amet diam eos
+                Explore the breathtaking beauty of Darjeeling with its stunning tea gardens and Himalayan views.
+
+
                 </p>
                 <div className="d-flex justify-content-center mb-2">
                   <a
@@ -197,13 +196,10 @@ function Packages() {
               <h6 className="text-white text-uppercase">Booking</h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              Book your travel, hotel, and event tickets with ease using our seamless online booking platform. Enjoy a hassle-free experience with instant confirmations, secure payments, and exclusive discounts.
               </p>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+              Whether you're planning a vacation, reserving a luxury stay, or securing tickets for your favorite event, our user-friendly system ensures quick and reliable bookings. Start your journey today with just a few clicks!
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
                 Read More
@@ -318,8 +314,7 @@ function Packages() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Explore a wide range of breathtaking destinations and pick the perfect place for your next adventure. Whether it's a tropical beach, a bustling city, or a serene mountain retreat, the choice is yours!
               </p>
             </div>
           </div>
@@ -338,8 +333,7 @@ function Packages() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Enjoy a seamless and secure online payment process. With multiple payment options and instant confirmation, booking your trip has never been easier!
               </p>
             </div>
           </div>
@@ -358,8 +352,7 @@ function Packages() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Pack your bags and get ready for an unforgettable journey! With your booking confirmed, all you need to do is relax and enjoy your hassle-free travel experience.
               </p>
             </div>
           </div>

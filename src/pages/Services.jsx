@@ -1,4 +1,5 @@
 import React from 'react'
+import Testimonial from "./Testimonial";
 
 function Services() {
   return (
@@ -43,8 +44,7 @@ function Services() {
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
                 <h5>WorldWide Tours</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Explore breathtaking destinations across the globe with our expertly curated tours. From iconic landmarks to hidden gems.
                 </p>
               </div>
             </div>
@@ -55,8 +55,7 @@ function Services() {
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
                 <h5>Hotel Reservation</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Book your perfect stay with ease! Choose from a wide range of luxury hotels, budget-friendly accommodations, and cozy homestays.
                 </p>
               </div>
             </div>
@@ -67,8 +66,7 @@ function Services() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Discover expert travel guides packed with insider tips, must-visit attractions, local experiences, and essential travel hacks.
                 </p>
               </div>
             </div>
@@ -79,8 +77,7 @@ function Services() {
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
                 <h5>Event Management</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                From corporate conferences to dream weddings, we specialize in planning and executing seamless events. Our expert team handles everything.
                 </p>
               </div>
             </div>
@@ -91,8 +88,7 @@ function Services() {
                 <i className="fa fa-3x fa-globe text-primary mb-4" />
                 <h5>WorldWide Tours</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Explore the world's most stunning destinations with our expertly curated tours. From cultural landmarks to breathtaking landscapes.
                 </p>
               </div>
             </div>
@@ -103,8 +99,7 @@ function Services() {
                 <i className="fa fa-3x fa-hotel text-primary mb-4" />
                 <h5>Hotel Reservation</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Find the perfect stay for your trip with our hassle-free hotel reservations. Choose from luxury resorts.
                 </p>
               </div>
             </div>
@@ -115,8 +110,7 @@ function Services() {
                 <i className="fa fa-3x fa-user text-primary mb-4" />
                 <h5>Travel Guides</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Navigate the world with confidence using our expert travel guides. Get insider tips, must-visit attractions.
                 </p>
               </div>
             </div>
@@ -127,8 +121,7 @@ function Services() {
                 <i className="fa fa-3x fa-cog text-primary mb-4" />
                 <h5>Event Management</h5>
                 <p>
-                  Diam elitr kasd sed at elitr sed ipsum justo dolor sed clita
-                  amet diam
+                Plan and execute unforgettable events with our expert event management services. From weddings and corporate gatherings to private parties and conferences.
                 </p>
               </div>
             </div>
@@ -138,7 +131,7 @@ function Services() {
     </div>
     {/* Service End */}
     {/* Testimonial Start */}
-    <div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
+    {/* <div className="container-xxl py-5 wow fadeInUp" data-wow-delay="0.1s">
       <div className="container">
         <div className="text-center">
           <h6 className="section-title bg-white text-center text-primary px-3">
@@ -201,7 +194,8 @@ function Services() {
           </div>
         </div>
       </div>
-    </div>
+    </div> */}
+    <Testimonial />
     {/* Testimonial End */}
     </div>
   )

@@ -106,8 +106,8 @@ export default function Footer() {
             </div>
           </div>
           <div className="col-lg-3 col-md-6">
-            <h4 className="text-white mb-3">Newsletter</h4>
-            <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+            <h4 className="text-white mb-3">NewsLetter</h4>
+            <p>Stay Connect With Us! Subscribe Here.</p>
             <div
               className="position-relative mx-auto"
               style={{ maxWidth: 400 }}
@@ -121,7 +121,7 @@ export default function Footer() {
                 type="button"
                 className="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"
               >
-                SignUp
+                Subscribe
               </button>
             </div>
           </div>

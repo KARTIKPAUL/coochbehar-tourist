@@ -50,8 +50,7 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Explore a wide range of breathtaking destinations and pick the perfect place for your next adventure. Whether it's a tropical beach, a bustling city, or a serene mountain retreat, the choice is yours!
               </p>
             </div>
           </div>
@@ -64,14 +63,13 @@ function Booking() {
                 className="d-inline-flex align-items-center justify-content-center bg-primary rounded-circle position-absolute top-0 start-50 translate-middle shadow"
                 style={{ width: 100, height: 100 }}
               >
-                <i className="fa fa-dollar-sign fa-3x text-white" />
+                <i className="fa fa-ruppe-sign fa-3x text-white" />
               </div>
               <h5 className="mt-4">Pay Online</h5>
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Enjoy a seamless and secure online payment process. With multiple payment options and instant confirmation, booking your trip has never been easier!
               </p>
             </div>
           </div>
@@ -90,8 +88,7 @@ function Booking() {
               <hr className="w-25 mx-auto bg-primary mb-1" />
               <hr className="w-50 mx-auto bg-primary mt-0" />
               <p className="mb-0">
-                Tempor erat elitr rebum clita dolor diam ipsum sit diam amet
-                diam eos erat ipsum et lorem et sit sed stet lorem sit
+              Pack your bags and get ready for an unforgettable journey! With your booking confirmed, all you need to do is relax and enjoy your hassle-free travel experience.
               </p>
             </div>
           </div>
@@ -108,13 +105,10 @@ function Booking() {
               <h6 className="text-white text-uppercase">Booking</h6>
               <h1 className="text-white mb-4">Online Booking</h1>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit.
+              Book your travel, hotel, and event tickets with ease using our seamless online booking platform. Enjoy a hassle-free experience with instant confirmations, secure payments, and exclusive discounts.
               </p>
               <p className="mb-4">
-                Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit.
-                Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit,
-                sed stet lorem sit clita duo justo magna dolore erat amet
+              Whether you're planning a vacation, reserving a luxury stay, or securing tickets for your favorite event, our user-friendly system ensures quick and reliable bookings. Start your journey today with just a few clicks!
               </p>
               <a className="btn btn-outline-light py-3 px-5 mt-2" href="">
                 Read More

@@ -57,13 +57,10 @@ function About() {
               Welcome to <span className="text-primary">CoochbeharTravel</span>
             </h1>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit.
+            Discover the world with Coochbehar Travel! 30+ years of expertise in crafting your dream journeys across India and exotic foreign destinations.
             </p>
             <p className="mb-4">
-              Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-              diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-              lorem sit clita duo justo magna dolore erat amet
+            Your trip, your plan – our experience. Explore with the most trusted travel agency from North Bengal.You can explore Meghalaya · Assam · West Bengal · Gauhati, Assam, India · Kolkata, West Bengal, India · Sikkim · Rajasthan · Cooch Behar, West Bengal, India · Shillong, Meghalaya, India · Arunachal Pradesh
             </p>
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
